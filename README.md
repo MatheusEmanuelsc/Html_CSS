@@ -12,8 +12,8 @@
 
 
 
-[Exercicio 1](atividade_1.html)
-[exercicio 2](atividade_2.html)
-[exercicio 3](atividade_3.html)
-[exercicio 4](atividade_4.html)
-[exercicio 5](atividade_5.html)
+[Exercicio 1](html/Public/atividade_1.htmll)
+[exercicio 2](html/Public/atividade_2.html)
+[exercicio 3](html/Public/atividade_3.html)
+[exercicio 4](html/Public/atividade_4.html)
+[exercicio 5](html/Public/atividade_5.html)
