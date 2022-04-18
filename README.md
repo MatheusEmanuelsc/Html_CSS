@@ -12,6 +12,8 @@
 
 +Criar links
 
++Criar Formularios
+
 
 
 
@@ -25,3 +27,5 @@
 [exercicio 4](html/Public/atividade_4.html)
 
 [exercicio 5](html/Public/atividade_5.html)
+
+[exercicio 6](html/Public/atividade_6.html)
