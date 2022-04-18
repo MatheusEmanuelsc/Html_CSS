@@ -13,9 +13,9 @@
 
 
 
-    [Exercicio 1](Public/atividade_1.html)
-    [exercicio 2](Public/atividade_2.html)
-    [exercicio 3](Public/atividade_3.html)
-    [exercicio 4](Public/atividade_4.html)
-    [exercicio 5](Public/atividade_5.html)
+    [Exercicio 1](atividade_1.html)
+    [exercicio 2](atividade_2.html)
+    [exercicio 3](atividade_3.html)
+    [exercicio 4](atividade_4.html)
+    [exercicio 5](atividade_5.html)
 ### Contidos dentro da pasta /public
