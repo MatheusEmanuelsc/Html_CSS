@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    font-size: 2em;
+}
+div{
+    width: 50%;
+    height: 500px;
+    margin:0 auto;
+    border: 1px solid;
+    padding: 10px;
+    background-color: aqua;
+}
+
+label{
+    display: block;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+}
+.dado{
+    position: relative;
+    left:20px ;
+    padding: 12px 20px;
+    margin:8px 0;
+    width: 90%;
+    height: 15px ;
+    display: flex;
+    box-sizing: border-box;
+
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+#confirmar{
+    position: relative;
+    left: 20px;
+    border: none;
+    border-radius: 15px;
+    width: 90%;
+    height: 30px;
+    padding: 16 32;
+    background-color:blue;
+    cursor: pointer;
+}
+
+#confirmar:hover{
+    width: 250px;
+    height: 40px;
+    background-color: green;
+}
