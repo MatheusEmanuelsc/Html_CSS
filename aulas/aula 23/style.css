@@ -1,0 +1,31 @@
+div{
+    background-color: aqua;
+}
+h1, p{
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+
+@media only screen and (min-width:480px){
+
+    div{
+        background-color: black;
+
+    }
+
+    h1, p{
+        color: aqua;
+    }
+}
+
+@media only screen and (min-width:780px){
+    div{
+        background-color:red;
+
+    }
+    h1, p{
+        color:green;
+    }
+} 
+    
