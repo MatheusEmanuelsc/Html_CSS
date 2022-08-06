@@ -2,17 +2,17 @@
 
 ##Lista de exercíos
 
-+Criar tela com uma lista de tags de cabeçalhos com diversos tamanhos.
++ Criar tela com uma lista de tags de cabeçalhos com diversos tamanhos.
 
-+Criar uma tela com estrutura de tags de head, titulo, corpo e parágrafo.
++ Criar uma tela com estrutura de tags de head, titulo, corpo e parágrafo.
 
-+Criar telas com uma lista de itens.
++ Criar telas com uma lista de itens.
 
-+Criar uma tela com uma imagem inserida.
++ Criar uma tela com uma imagem inserida.
 
-+Criar links
++ Criar links
 
-+Criar Formularios
++ Criar Formularios
 
 
 
