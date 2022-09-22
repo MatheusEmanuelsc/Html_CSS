@@ -5,10 +5,42 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grid</title>
+
+    <Style>
+
+        .container{
+            background-color: aquamarine;
+            display: grid;
+            grid-template-columns: 100px 100px 100px;
+            grid-gap: 10px;
+        }
+
+        .box{
+            background-color: green;
+            height: 100px;
+            width: 100px;
+        }
+        .a{
+            background-color: antiquewhite;
+            height: 150px;
+            width: 100px;
+        }
+        .f{
+            background-color: antiquewhite;
+            height: 150px;
+            width: 100px;
+        }
+    </Style>
 </head>
 <body>
-    <div    class="container">
-        div.box
+    <div  class="container">
+        <div class="box a">A</div>
+        <div class="box b">B</div>
+        <div class="box c">C</div>
+        <div class="box d">D</div>
+        <div class="box e">E</div>
+        <div class="box f">F</div>
+
     </div>
 </body>
 </html>
