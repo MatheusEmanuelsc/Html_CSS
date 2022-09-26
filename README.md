@@ -14,7 +14,7 @@
 
 + Criar Formularios
 
-- Criar Pagina de login Facebook
++ Criar Pagina de login Facebook
 
 
 
@@ -31,3 +31,6 @@
 [exercicio 6](html/Public/atividade_6.html)
 
 [Pagina de login Facebook](recriando%20login%20facebook/html/login.html)
+
+Obs:
+Achei melhor fazer em um repositório separado o login do Instagram, pois faz parte de outro desafio.
